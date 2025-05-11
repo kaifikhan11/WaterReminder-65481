@@ -19,5 +19,4 @@
 ---
 
 ### Version History:
-- **v1.0**: Initial version – BMI-based intake and reminder
 - **v2.0**: ✨ Added water temperature recommendation feature
