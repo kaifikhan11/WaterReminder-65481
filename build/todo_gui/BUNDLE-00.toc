@@ -1,0 +1,1 @@
+([('todo_gui', '/Users/mac/Desktop/python/dist/todo_gui', 'EXECUTABLE')],)
