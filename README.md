@@ -1,21 +1,23 @@
-# Water Intake Reminder App
+## Water Reminder App
 
-**Name:** M Kaif  
-**Student ID:** 65491
+**Name**: M KAIF  
+**Student ID**: 65481  
 
-## 💡 Features
+### Features:
+- Calculates recommended daily water intake based on weight.
+- Suggests reminder frequency based on age.
+- 🆕 Recommends ideal water temperature:
+  - **Cool** for youth (under 18)
+  - **Normal** for adults (18–49)
+  - **Lukewarm** for elders (50+)
 
-## Features
+### Usage:
+1. Run the program: `python3 water_reminder.py`
+2. Enter weight (in kg) and age (in years) when prompted.
+3. Receive your daily water recommendation, reminder interval, and ideal water temperature.
 
-- Calculates daily water intake based on weight
-- Suggests reminder frequency based on age
-- ✅ NEW in v2.0: Recommends ideal water temperature based on age
+---
 
-
-## 🚀 How to Use
-
-1. Make sure Python is installed
-2. Run the program:
-
-```bash
-python3 water_reminder.py
+### Version History:
+- **v1.0**: Initial version – BMI-based intake and reminder
+- **v2.0**: ✨ Added water temperature recommendation feature
